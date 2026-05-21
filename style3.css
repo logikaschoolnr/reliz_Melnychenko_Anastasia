@@ -1,0 +1,33 @@
+.background-container {
+  display: flex;
+
+  min-height: 400px;
+  background: linear-gradient(purple, #ff007f, pink);
+  padding: 20px;
+}
+.glass-card {
+  max-width: 400px;
+  padding: 40px;
+  border-radius: 20px;
+
+  font-family:Arial, sans-serif;
+}
+
+.glass-title {
+  margin-top: 0;
+  font-size: 30px;
+  color: pink;
+}
+
+.glass-text {
+  line-height: 1.5;
+  margin-bottom: 0;
+  color: pink;
+}
+nav a {
+    background-color: purple;
+    color: pink;
+    font-size: 35px;
+    padding: 10px;
+    text-decoration: none;
+}
